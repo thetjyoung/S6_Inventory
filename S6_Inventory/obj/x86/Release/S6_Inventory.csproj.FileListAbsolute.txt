@@ -1,0 +1,13 @@
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\bin\Release\S6_Inventory.exe
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\bin\Release\S6_Inventory.pdb
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.AddAsset.resources
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.AddUser.resources
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.Form1.resources
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.Properties.Resources.resources
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.UpdAsset.resources
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.UpdUser.resources
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.exe
+C:\Users\TJ\Documents\Visual Studio 2010\Projects\S6_Inventory\S6_Inventory\obj\x86\Release\S6_Inventory.pdb
